@@ -1,5 +1,10 @@
 ## root@43.129.169.167
 域名 kpzhao.xyz
+## screen
+```
+screen -S upload #新建上传会话
+screen -r upload #恢复上传会话
+```
 ## 免密登录
 ```
 ssh-keygen -t rsa
